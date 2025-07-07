@@ -2,14 +2,10 @@
 
 -------------------
 &emsp;
-<h3 align="left">Hi 👋, I'm Vicente, a Computer Engineering student based in Chile. .</h3>
+<h3 align="left">Hola 👋, Soy Vicente, Estudiante de Ingeniería Informática de 3r Año I Conocimientos en Bootstrap, Django, HTML, CSS, JavaScript, Ionic, Angular, Python, Java, Machine Learning y Análisis de Datos.
 &emsp;
 
 -------------------
-&emsp;
-- 🌱 I’m currently learning **Ionic Framework and Angular**
-
-&emsp;
 
 ## Connect with me:
 -------------------
