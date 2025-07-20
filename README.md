@@ -12,7 +12,7 @@
 
 &emsp;
   
-  ![Linkedin: Vicente Tramon](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)
+  ![Linkedin: Vicente Tramon](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white) Vicente Tramon Farias
 
   [![Email Badge](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:vicetramon@gmail.com)
 
