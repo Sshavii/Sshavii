@@ -2,7 +2,7 @@
 
 -------------------
 &emsp;
-<h3 align="left"> Estudiante de Ingeniería Informática de 3r Año I Conocimientos en Bootstrap, Tailwind CSS, React, Django, HTML, CSS, JavaScript, Ionic, Angular, Python, Java, Machine Learning y Análisis de Datos.
+<h3 align="left"> Estudiante de Ingeniería Informática de 4r Año I Enfocado en el Desarrollo de SaaS Empresariales y Analisis de Datos
 &emsp;
 
 -------------------
