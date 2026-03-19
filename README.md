@@ -3,25 +3,19 @@
 ### Full Stack Developer | React, Supabase & Python
 **Especialista en Soluciones SaaS y Automatización de Procesos**
 
-[cite_start]Ingeniero Informático en formación enfocado en llevar aplicaciones complejas desde el concepto hasta la producción[cite: 18, 37]. [cite_start]Mi experiencia actual se centra en modernizar procesos empresariales críticos mediante el desarrollo de plataformas web seguras y de alto rendimiento.
+Estudiante de Ingeniería Informática enfocado en modernizar procesos empresariales críticos mediante el desarrollo de plataformas web seguras y de alto rendimiento. Me especializo en llevar aplicaciones complejas desde el concepto hasta la producción.
 
 ---
 
 ## 📂 Proyecto Destacado: Plataforma de Gestión Empresarial (SaaS)
-*Desarrollado en entorno profesional para consultoría de servicios*
+*Desarrollado para consultoría de servicios profesionales*
 
-Este sistema fue diseñado para digitalizar y optimizar flujos de trabajo operativos, sustituyendo procesos manuales por una arquitectura moderna basada en la nube.
+Este sistema digitaliza flujos de trabajo operativos, sustituyendo procesos manuales por una arquitectura moderna en la nube.
 
-### 🛠️ Arquitectura Técnica
-* **Frontend:** React con Tailwind CSS para una interfaz reactiva y profesional.
-* **Backend & Cloud:** Supabase para la gestión de autenticación, almacenamiento y lógica de servidor.
-* [cite_start]**Base de Datos:** Modelado y diseño de bases de datos relacionales en PostgreSQL[cite: 5].
-* **Automatización de Reportes:** Módulo de generación dinámica de documentos en **PDF y Excel** para la toma de decisiones basada en datos.
-
-### 💡 Desafíos de Ingeniería Resueltos
-* [cite_start]**Escalabilidad:** Implementación de una arquitectura Full Stack que permite el crecimiento modular del sistema[cite: 6, 9].
-* **Integración de Datos:** Sincronización de flujos de datos complejos para visualización en tiempo real.
-* [cite_start]**Seguridad:** Configuración de entornos seguros para el manejo de información corporativa crítica[cite: 17].
+* **Arquitectura:** React con Tailwind CSS y Supabase (PostgreSQL).
+* **Funcionalidades:** Gestión de autenticación, almacenamiento en la nube y base de datos en tiempo real.
+* **Automatización:** Módulo de generación dinámica de reportes en **PDF y Excel** para la toma de decisiones.
+* **Impacto:** Optimización de la integridad de datos y reducción de tiempos en tareas administrativas.
 
 ---
 
@@ -29,10 +23,9 @@ Este sistema fue diseñado para digitalizar y optimizar flujos de trabajo operat
 
 | Categoría | Conocimientos |
 | :--- | :--- |
-| **Frontend** | React, Tailwind CSS, JavaScript, HTML5, CSS3, Ionic, Angular |
-| **Backend** | Supabase, Python (Django), Java, PostgreSQL |
-| **Data & BI** | Análisis de Datos, Power BI, Excel Avanzado, Machine Learning |
-| **Soft Skills** | [cite_start]Trabajo en equipo en entornos de alta demanda y gestión de canales digitales [cite: 7, 22, 27] |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Backend** | ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) |
+| **Data & DB** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=microsoft-power-bi&logoColor=black) ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) |
 
 ---
 
@@ -42,5 +35,5 @@ Este sistema fue diseñado para digitalizar y optimizar flujos de trabajo operat
 ---
 
 ### 📫 Contacto
-* [cite_start]**LinkedIn:** [vicente-tramon-farias](https://www.linkedin.com/in/vicente-tramon-farias) [cite: 3]
-* [cite_start]**Email:** vicetramon@gmail.com [cite: 2]
+* **LinkedIn:** [vicente-tramon-farias](https://www.linkedin.com/in/vicente-tramon-farias)
+* **Email:** vicetramon@gmail.com
